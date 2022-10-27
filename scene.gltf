@@ -1,0 +1,414 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 62233,
+      "max": [
+        2.700859546661377,
+        1.653008222579956,
+        0.40867674350738525
+      ],
+      "min": [
+        -1.8747060298919678,
+        0.0,
+        -2.624027729034424
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 746796,
+      "componentType": 5126,
+      "count": 62233,
+      "max": [
+        0.9999764561653137,
+        0.9999999403953552,
+        0.9999806880950928
+      ],
+      "min": [
+        -0.9999579787254333,
+        -0.9999988079071045,
+        -0.9999904632568359
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 62233,
+      "max": [
+        1.0,
+        0.9450980424880981,
+        0.3176470696926117,
+        1.0
+      ],
+      "min": [
+        0.21176470816135406,
+        0.07058823853731155,
+        0.0,
+        0.9921568632125854
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 366834,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1493592,
+      "componentType": 5126,
+      "count": 54803,
+      "max": [
+        2.350111961364746,
+        0.5980692505836487,
+        0.3625068962574005
+      ],
+      "min": [
+        -1.824183702468872,
+        0.04669730365276337,
+        -0.3471434414386749
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2151228,
+      "componentType": 5126,
+      "count": 54803,
+      "max": [
+        0.9998680949211121,
+        0.9999995827674866,
+        0.9999455213546753
+      ],
+      "min": [
+        -0.9999668598175049,
+        -0.9999995827674866,
+        -0.9997943639755249
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 995728,
+      "componentType": 5126,
+      "count": 54803,
+      "max": [
+        1.0,
+        0.95686274766922,
+        0.32549020648002625,
+        1.0
+      ],
+      "min": [
+        0.15294118225574493,
+        0.0,
+        0.0117647061124444,
+        0.9882352948188782
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1467336,
+      "componentType": 5125,
+      "count": 319146,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2808864,
+      "componentType": 5126,
+      "count": 3270,
+      "max": [
+        2.098551034927368,
+        0.7525160908699036,
+        0.11078507453203201
+      ],
+      "min": [
+        -1.6771551370620728,
+        0.0,
+        -0.08536247164011002
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2848104,
+      "componentType": 5126,
+      "count": 3270,
+      "max": [
+        0.9997252225875854,
+        0.999628484249115,
+        0.999828577041626
+      ],
+      "min": [
+        -0.9972256422042847,
+        -0.9993643164634705,
+        -0.9998784065246582
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1872576,
+      "componentType": 5126,
+      "count": 3270,
+      "max": [
+        0.8745098114013672,
+        0.8745098114013672,
+        0.3137255012989044,
+        1.0
+      ],
+      "min": [
+        0.10980392247438431,
+        0.12941177189350128,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2743920,
+      "componentType": 5125,
+      "count": 19500,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Robert Kotsch (https://sketchfab.com/robertkotsch)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/happy-halloween-jack-o-lanterns-eb828cefef5a4a33a6dc4559fc55458a",
+      "title": "Happy Halloween Jack-O-Lanterns"
+    },
+    "generator": "Sketchfab-14.30.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2821920,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2887344,
+      "byteOffset": 2821920,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1924896,
+      "byteOffset": 5709264,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7634160,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "mat1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.756863,
+          0.756863,
+          0.756863,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.44261786411783677
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.7275062770042406,
+        0.48618038114448114,
+        0.06762321992773675
+      ],
+      "name": "light",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.756863,
+          0.756863,
+          0.756863,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "mat2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.756863,
+          0.756863,
+          0.756863,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8137476195980847
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mat1_mat1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "light_light_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "mat2_mat2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "c03be8fce16244649f6ae7d721a951fe.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "mat1"
+    },
+    {
+      "mesh": 0,
+      "name": "mat1_mat1_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "light"
+    },
+    {
+      "mesh": 1,
+      "name": "light_light_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "mat2"
+    },
+    {
+      "mesh": 2,
+      "name": "mat2_mat2_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
